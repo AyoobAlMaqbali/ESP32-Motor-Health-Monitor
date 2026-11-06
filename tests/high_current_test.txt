@@ -1,0 +1,39 @@
+Voltage: 0.00 V | Current: 0.00 mA | Status: LOW VOLTAGE   //Start of the test (motor is idle)
+Voltage: 0.00 V | Current: -0.20 mA | Status: LOW VOLTAGE
+Voltage: 0.00 V | Current: -0.20 mA | Status: LOW VOLTAGE
+Voltage: 0.00 V | Current: 0.20 mA | Status: LOW VOLTAGE
+Voltage: 0.00 V | Current: 0.20 mA | Status: LOW VOLTAGE
+Voltage: 0.00 V | Current: -0.20 mA | Status: LOW VOLTAGE
+Voltage: 0.00 V | Current: 0.20 mA | Status: LOW VOLTAGE
+Voltage: 4.97 V | Current: 45.60 mA | Status: NORMAL
+Voltage: 5.02 V | Current: 47.00 mA | Status: NORMAL
+Voltage: 4.97 V | Current: 49.00 mA | Status: NORMAL
+Voltage: 4.96 V | Current: 58.50 mA | Status: NORMAL
+Voltage: 4.96 V | Current: 53.10 mA | Status: NORMAL
+Voltage: 4.98 V | Current: 84.20 mA | Status: HIGH CURRENT
+Voltage: 4.94 V | Current: 70.60 mA | Status: HIGH CURRENT
+Voltage: 4.95 V | Current: 77.10 mA | Status: HIGH CURRENT
+Voltage: 4.98 V | Current: 84.80 mA | Status: HIGH CURRENT
+Voltage: 4.95 V | Current: 71.40 mA | Status: HIGH CURRENT
+Voltage: 4.95 V | Current: 80.90 mA | Status: HIGH CURRENT
+Voltage: 4.94 V | Current: 74.00 mA | Status: HIGH CURRENT
+Voltage: 4.93 V | Current: 86.50 mA | Status: HIGH CURRENT
+Voltage: 4.98 V | Current: 89.60 mA | Status: HIGH CURRENT
+Voltage: 4.97 V | Current: 46.20 mA | Status: NORMAL
+Voltage: 4.96 V | Current: 40.40 mA | Status: NORMAL
+Voltage: 5.00 V | Current: 54.40 mA | Status: NORMAL
+Voltage: 4.99 V | Current: 75.50 mA | Status: HIGH CURRENT
+Voltage: 4.94 V | Current: 75.80 mA | Status: HIGH CURRENT
+Voltage: 4.96 V | Current: 81.10 mA | Status: HIGH CURRENT
+Voltage: 5.02 V | Current: 46.20 mA | Status: NORMAL
+Voltage: 4.97 V | Current: 56.50 mA | Status: NORMAL
+Voltage: 4.97 V | Current: 50.90 mA | Status: NORMAL
+Voltage: 4.98 V | Current: 48.10 mA | Status: NORMAL
+Voltage: 4.98 V | Current: 53.50 mA | Status: NORMAL
+Voltage: 4.98 V | Current: 47.50 mA | Status: NORMAL
+Voltage: 1.90 V | Current: 3.00 mA | Status: LOW VOLTAGE
+Voltage: 0.00 V | Current: 0.00 mA | Status: LOW VOLTAGE // End of test
+Voltage: 0.00 V | Current: 0.00 mA | Status: LOW VOLTAGE
+Voltage: 0.00 V | Current: -0.20 mA | Status: LOW VOLTAGE
+Voltage: 0.00 V | Current: 0.00 mA | Status: LOW VOLTAGE
+Voltage: 0.00 V | Current: 0.00 mA | Status: LOW VOLTAGE
